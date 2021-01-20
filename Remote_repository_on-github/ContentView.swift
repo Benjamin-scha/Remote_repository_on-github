@@ -13,6 +13,8 @@ struct ContentView: View {
             .padding()
         Text("general, kenobi!")
             .padding()
+        Text("I have been trained in your jedi arts by count doku")
+            .padding()
     }
 }
 
