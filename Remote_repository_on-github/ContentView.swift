@@ -9,9 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, there!")
+        Text("I am who I am")
             .padding()
-        Text("general, kenobi!")
+        Text("tell them I am has sent me to you")
             .padding()
         Text("I have been trained in your jedi arts by count doku")
             .padding()
