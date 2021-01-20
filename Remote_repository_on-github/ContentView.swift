@@ -13,7 +13,7 @@ struct ContentView: View {
             .padding()
         Text("tell them I am has sent me to you")
             .padding()
-        Text("I have been trained in your jedi arts by count doku")
+        Text("I have been count doku")
             .padding()
     }
 }
